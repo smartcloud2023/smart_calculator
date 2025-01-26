@@ -1,6 +1,8 @@
 # Smart Calculator
 
 **Smart Calculator** is a simple Python package that provides basic arithmetic operations: addition, subtraction, multiplication, and division. It can be used as both a Python module and a command-line tool.
+Developed by Engr Smart 
+link https://pypi.org/project/smart-calculator/
 
 ---
 
